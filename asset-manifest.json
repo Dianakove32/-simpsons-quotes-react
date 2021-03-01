@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/-simpsons-quotes-react/static/css/main.79863d44.chunk.css",
+    "main.js": "/-simpsons-quotes-react/static/js/main.e32528eb.chunk.js",
+    "main.js.map": "/-simpsons-quotes-react/static/js/main.e32528eb.chunk.js.map",
+    "runtime-main.js": "/-simpsons-quotes-react/static/js/runtime-main.b0e67199.js",
+    "runtime-main.js.map": "/-simpsons-quotes-react/static/js/runtime-main.b0e67199.js.map",
+    "static/js/2.356bd1a3.chunk.js": "/-simpsons-quotes-react/static/js/2.356bd1a3.chunk.js",
+    "static/js/2.356bd1a3.chunk.js.map": "/-simpsons-quotes-react/static/js/2.356bd1a3.chunk.js.map",
+    "static/js/3.2c626646.chunk.js": "/-simpsons-quotes-react/static/js/3.2c626646.chunk.js",
+    "static/js/3.2c626646.chunk.js.map": "/-simpsons-quotes-react/static/js/3.2c626646.chunk.js.map",
+    "index.html": "/-simpsons-quotes-react/index.html",
+    "static/css/main.79863d44.chunk.css.map": "/-simpsons-quotes-react/static/css/main.79863d44.chunk.css.map",
+    "static/js/2.356bd1a3.chunk.js.LICENSE.txt": "/-simpsons-quotes-react/static/js/2.356bd1a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0e67199.js",
+    "static/js/2.356bd1a3.chunk.js",
+    "static/css/main.79863d44.chunk.css",
+    "static/js/main.e32528eb.chunk.js"
+  ]
+}
